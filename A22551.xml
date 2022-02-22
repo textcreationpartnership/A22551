@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation commanding the gentry to keepe their residence at their mansions in the countrey, and forbidding them to make their habitations in London, and places adioyning.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1632</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22551</idno>
+            <idno type="STC">STC 8989</idno>
+            <idno type="STC">ESTC S122794</idno>
+            <idno type="EEBO-CITATION">38160541</idno>
+            <idno type="OCLC">ocm 38160541</idno>
+            <idno type="VID">29238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29238)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1924:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation commanding the gentry to keepe their residence at their mansions in the countrey, and forbidding them to make their habitations in London, and places adioyning.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie: and by the Assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXXII [1632]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Giuen at the Court at Greenwich, the twentieth day of Iune, in the eighth yeere of the Reigne of our Soueraigne Lord, Charles, by the grace of God King of England, Scotland, France and Ireland, Defender of the Faith, &amp;c."</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gentry --  Great Britain.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:29238:1"/>
+            <!-- PDF PAGE 45 -->
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> A Proclamation commanding the Gentry to keepe their Reſidence at their Manſions in the Countrey, and forbidding them to make their habitations in London, and places adioyning.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings moſt Excellent MAIESTIE hath obſerued, that</hi> of late yeeres a greater number of the Nobilitie and Gentrie, and abler ſort of His people with their Families, haue reſorted to the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and places adioyning, and there made their reſidence, then in former times, contrary to the auncient vſage of the Engliſh Nation, which hath occaſioned diuers incon<g ref="char:EOLhyphen"/>ueniences; for where by their reſidence and abiding in the ſeuerall Countreys whence their meanes ariſeth, they ſerued the King in ſeuerall places according to their Degrees and Rankes in ayde of the Gouernement, where<g ref="char:EOLhyphen"/>by, and by their Houſe-keeping in thoſe parts, the Realme was defended, and the meaner ſort of the people were guided, directed and relieued, but by their reſidence in the ſaid Cities and parts adioyning, they haue not imployment, but liue without doing any Seruice to His Maieſtie or His people, a great part of their money and ſubſtance is drawen from the ſeue<g ref="char:EOLhyphen"/>rall Countreys whence it ariſeth, and is ſpent in the Citie in exceſſe of Apparell prouided from Forraigne parts, to the enriching of other Nations, and vnneceſſary conſumption of a great part of the Treaſure of this Realme, and in other vaine delights and expences, euen to the waſting of their Eſtates, which is not iſſued into the parts from whence it ariſeth, nor are the people of them relieued therewith, or by their Hoſpitalitie, nor yet ſet on worke as they might and would bee, were it not for the abſence of the principall men out of their Countreys, and the exceſſiue vſe of Forraigne Commodities by this occaſion alſo, and of the great number of looſe and idle people that follow them, and liue in, and about the ſaid Cities,
+<pb facs="tcp:29238:2"/>
+               <!-- PDF PAGE 46 -->the diſorder there groweth ſo great, and the Delinquents become ſo numerous, as thoſe pla<g ref="char:EOLhyphen"/>ces are not ſo eaſily gouerned by their ordinary Magiſtrates, as in former times, and the ſaid Cities are not onely at exceſſiue charge in relieuing a great number of thoſe idle and looſe people, that grow to Beggery, and become diſeaſed and infirme, but alſo are made more ſubiect to Contagion and Infection, and the prizes of all kindes of victuals both in the ſaid Cities, and in diuers other places from whence thoſe Cities are ſerued, are exceedingly increa<g ref="char:EOLhyphen"/>ſed, and the ſeuerall Countreys vndefended, the poorer ſort are vnrelieued, and not guided or gouerned, as they might bee in caſe thoſe perſons of qualitie and reſpect reſided among them.</p>
+            <p>His Maieſtie finding thoſe inconueniences to ariſe from hence, and foreſeeing that more will enſue, if timely remedy be not prouided, hath reſolued for the common good of His people, as by His Office He is bound to vſe all good wayes for preuenting of thoſe great euils.</p>
+            <p>And obſeruing that His Noble Progenitors Kings of this Realme haue vſed, when for the common profit of the Realme it was neceſſary to command their people, aſwell thoſe of the Clergie of all ſorts, as the Laitie, to keepe Reſidence at their dwellings in the ſeuerall parts of this Realme, where for defence, good, and ſafetie thereof, was moſt neceſſary, and to reſtraine their departure, or changing their habitations from thence, vnder diuers paines vpon the contemners of thoſe Commands: Therefore His Maieſtie doth ſtreightly charge and command His Lords both Spirituall and Temporall, the Lieutenants and Deputie Lieutenants of Counties, Iuſtices aſſigned for conſeruation of the Peace, Baronets, Knights, Eſquires, and Gentlemen, and all Clerkes hauing Benefices with Cure, or Pre<g ref="char:EOLhyphen"/>bends or Dignities in Cathedrall or Collegiat Churches, and all other His Maieſties Sub<g ref="char:EOLhyphen"/>iects of the ſeuerall parts of the Realme, that haue Manſion-houſes and places of Reſi<g ref="char:EOLhyphen"/>dence in other parts, and are not of His Maieſties Councell, or bound to dayly attendance on His Highneſſe, His deareſt Conſort the Queene, or their Children, That before the end of fourty dayes next after the publiſhing of this Proclamation within His Citie of <hi>London,</hi> they with their families depart from the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> Suburbes and Li<g ref="char:EOLhyphen"/>berties thereof, and places adioyning, and reſort to the ſeuerall Counties where they vſually reſided, and there keepe their habitations and hoſpitalitie, attend their ſeruices, and be ready for the defence and guidance of thoſe parts, as their Callings, Degrees and Abilities ſhall extend, vpon ſuch paines as are to be inflicted vpon thoſe that ſhall neglect the publique ſeruice and defence of the Realme in contempt of His Maieſties Royall Command: And that aſwell thoſe hereby commanded to returne to their ſeuerall Countreys, as thoſe which are already there, doe vpon the ſame paines, continue the Reſidence of themſelues, and their families there, and doe their dueties and ſeruices as aforeſaid.</p>
+            <p>Neuertheleſſe, his Maieſtie doeth hereby declare that it is not His purpoſe to reſtraine the neceſſary acceſſe of any His Subiects to the ſaid Cities or either of them, for the following their ſuites or other neceſſary buſineſſe in Terme time, or otherwiſe, ſo as they doe not by pre<g ref="char:EOLhyphen"/>tence thereof remoue their families, but leaue the ſame to continue in the Countrey, and keep their houſes and Hoſpitality, and themſelues returne thither as their buſineſſe may permit them, and to the end the better effect may hence follow, His Maieſty doth charge and com<g ref="char:EOLhyphen"/>mand the Lord Maior of the City of <hi>London,</hi> and the Aldermen of the ſame Citie, &amp; the Iuſti<g ref="char:EOLhyphen"/>ces
+<pb facs="tcp:29238:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 47 -->aſſigned for conſeruation of the Peace there, and in the City of <hi>Weſtminſter</hi> and the Sub<g ref="char:EOLhyphen"/>urbes and Liberties of the ſame Cities, and in the Counties and places adioyning, and all Conſtables and Churchwardens in euery Pariſh within any of thoſe Cities, Suburbes, Li<g ref="char:EOLhyphen"/>berties, Counties, and places, That euery of them make ſpeciall obſeruation of all thoſe that ſhall bee diſobedient to this Our Command, and from time to time preſent their names to ſome of Our Counſell learned, whom Wee doe Command to take due examination, or notice of the qualities of their offences, and to cauſe proſecution to bee had againſt them in Our Court of Starre-chamber, or in any other Our Courts of Iuſtice as the caſe ſhall require.</p>
+            <p>And becauſe His Maieſties louing people of the Cities, Suburbes, Liberties, and places aforeſaid, are exceedingly burthened and charged, by occaſion of this great &amp; vnneceſſary con<g ref="char:EOLhyphen"/>courſe of thoſe ſtrangers among them, His Maieſtie holdeth it equall and iuſt, and is well pleaſed that in their ayde and contributions to his Maieſtie, and other common payments, they ſhall be charged with reſpect to the inconuenience that commeth by their reſidence in thoſe places, and that neuertheleſſe in other parts of the Realme they bee not forborne in any vſuall payment which by Law may be layed on them, and which they were accuſtomed to beare among their neighbours in the Country when they reſided there. And his Maieſty doth further charge and command, that when they or any of them at any Aſſizes, Seſſions, or other place of publike ſeruice ſhall make default of their ſeruice, or due attendance, that the penalties of the Law bee ſeuerely inflicted on them, without fauour or excuſe by reaſon of their reſiding with their families at <hi>London,</hi> or <hi>Weſtminſter,</hi> or the places adioyning.</p>
+            <p>Finally, His Maieſtie doeth hereby declare that it is His firme reſolution to withſtand this great and growing euill, by all iuſt wayes, and by a conſtant ſeuerity towards the offenders in that behalfe; For which cauſe His Maieſtie doeth giue this timely warning, that none doe hereafter preſume to offend, nor put themſelues to vnneceſſary charge in prouiding themſelues to returne in Winter, to the ſaid Cities and places adiacent but that they conforme themſelues to this his Royall Commandement, as they tender their dueties to His Maieſtie, or the good and welfare of their countreyes and themſelues.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at the Court at Greenwich,</hi> 
+                  <date>
+                     <hi>the twentieth day of Iune, in the eighth yeere of the Reigne of our Soueraigne Lord, CHARLES by the grace of God King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent MAIESTIE: and by the Aſsignes of Iohn Bill. M.DC.XXXII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
